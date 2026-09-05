@@ -20,7 +20,8 @@ https://public.tableau.com/shared/M99H65RR2?:display_count=n&:origin=viz_share_l
 2. **Analyse de Correlation :** Relation positive marquée entre le *Family Score* et l'indice de bonheur global.
 3. **Enrichissement Contextuel :** Action Tableau permettant d'afficher dynamiquement la page Wikipedia de la région sélectionnée.
 
-![Aperçu du Tableau de Bord]
+<img width="1357" height="679" alt="Gif WH" src="https://github.com/user-attachments/assets/61d79077-23d3-45cd-991b-4cd95387117f" />
+
 
 ---
 
